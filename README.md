@@ -3,11 +3,11 @@ Test for data science class
 
 Editing this file
 
-# Large heading
+# Largest heading
 
 ## Larger heading
 
-### Largest heading
+### Large heading
 
 How do .md files work?
 
